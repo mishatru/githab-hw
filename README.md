@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-[Ссылка на commit задания 1](https://github.com/mishatru/git-8_01/tree/2acb95aae07c0ebffd6578c7e4a01f41179a69c5)
+[Ссылка на commit задания 1](https://github.com/mishatru/git-8_01/commit/2acb95aae07c0ebffd6578c7e4a01f41179a69c5)
 
 
 ---
@@ -33,7 +33,7 @@
 
 Создан файл .gitignore  
 
-[Ссылка на commit задания 2](https://github.com/mishatru/git-8_01/tree/4a830cfe8ed4dd196f43e56fd4edfa3a6eb88376)
+[Ссылка на commit задания 2](https://github.com/mishatru/git-8_01/commit/4a830cfe8ed4dd196f43e56fd4edfa3a6eb88376)
 
 ---
 
